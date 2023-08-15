@@ -22,70 +22,70 @@ void loop() {
   digitalWrite(redB, LOW);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, LOW);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, LOW);
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, LOW);
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, LOW);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, LOW);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, LOW);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, LOW);
@@ -99,33 +99,33 @@ void loop() {
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, LOW);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, LOW);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 
   digitalWrite(redA, HIGH);
   digitalWrite(greenA, HIGH);
   digitalWrite(redB, HIGH);
   digitalWrite(greenB, HIGH);
 
-  delay(delayTym); // Delay for 1000 milliseconds
+  delay(delayTym); // Delay for 2000 milliseconds
 }
