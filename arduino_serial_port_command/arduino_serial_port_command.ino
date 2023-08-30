@@ -9,8 +9,8 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  Serial.print(myString);
-  Serial.println(j);
+  //Serial.print(myString);
+  Serial.println(myString + j);
   j = j + 1;
   delay(waitT);
 }
